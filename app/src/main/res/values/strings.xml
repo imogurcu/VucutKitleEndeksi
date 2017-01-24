@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vucut Kitle Endeksi</string>
+    <string name="bay">Bay</string>
+    <string name="bayan">Bayan</string>
+    <string name="boy_tv">Boy</string>
+    <string name="kilo_tv">Kilo</string>
+    <string name="cinsiyet_tv">Cinsiyet</string>
+    <string name="ideal_kilo_tv">İdeal Kilo</string>
+    <string name="durum_tv">Durum</string>
+    <string name="zayif">Zayıf Durumdasınız.</string>
+    <string name="durum_ideal">İdeal Kilodasınız.</string>
+    <string name="durum_idealden_fazla">İdeal Kilodan Fazlasınız.</string>
+    <string name="durum_fazla_kilolu">Fazla Kilolusunuz.</string>
+    <string name="durum_obez">Obezsiniz.</string>
+    <string name="durum_doktora">Dikkat ! Doğru doktora gitmelisiniz.</string>
+    <string name="cokzayif">Çok zayıfsınız.Riskli...</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="bay">Male</string>
+    <string name="bayan">Female</string>
+    <string name="boy_tv">Length</string>
+    <string name="cinsiyet_tv">Sex</string>
+    <string name="cokzayif">You are very weak. Risky...</string>
+    <string name="durum_doktora">Attention ! You should go to the right doctor.</string>
+    <string name="durum_fazla_kilolu">You are overweight.</string>
+    <string name="durum_ideal">You are the ideal kilo</string>
+    <string name="durum_tv">Status</string>
+    <string name="ideal_kilo_tv">Ideal Weight</string>
+    <string name="kilo_tv">Weight</string>
+    <string name="zayif">You\'re in Weak Status.</string>
+    <string name="durum_obez">You are obese</string>
+    <string name="durum_idealden_fazla">You are the more than ideal kilo</string>
+</resources>
